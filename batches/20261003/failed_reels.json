@@ -1,0 +1,30 @@
+[
+  {
+    "index": 0,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  },
+  {
+    "index": 1,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  },
+  {
+    "index": 2,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  },
+  {
+    "index": 3,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  },
+  {
+    "index": 4,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  },
+  {
+    "index": 5,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  },
+  {
+    "index": 6,
+    "error": "module 'PIL.Image' has no attribute 'ANTIALIAS'"
+  }
+]
